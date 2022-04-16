@@ -1,4 +1,4 @@
-# Skillvalley-Cohort-Project
+# team8-SV-project
 
 Domain Name: EdTech
 Problem Statement: These days student’s life has changed to learn than offline classes.  Though there are many platforms but still they find it difficult to learn due to lack of learning resources, not understanding the concepts, financial problems. Due to lack of guidance and expertise they are always confused how to study and from where to study. 
