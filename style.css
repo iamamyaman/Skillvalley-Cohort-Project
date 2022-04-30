@@ -1,0 +1,81 @@
+.full-page
+{
+    width: 100%;
+    height: 150vh;
+    background: linear-gradient(to bottom, #1f9c92,#0c111b 300px);
+    position: absolute;
+    overflow: hidden;
+}
+
+.headernav
+{
+    position: fixed;
+    background: linear-gradient(to bottom, #141b29,#0c111b 300px);
+    width: 100%;
+    text-align: center;
+
+    
+}
+
+
+.nav-link
+{
+    font-size: 30px !important;
+    color: white !important;
+    padding-left: 0px !important;
+    padding-right: 50px !important;
+}
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: #fff;
+    position: relative;
+}
+.content .par{
+    padding-right: 20px;
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 30px;
+}
+.content .para{
+    padding-right: 20px;
+    padding-bottom: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    text-align: center;
+    font-size: 30px;
+
+}
+.content h1{
+    font-family: 'Times New Roman';
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 9%;
+    letter-spacing: 2px;
+    text-align: center;
+}
+
+
+.content .cn{
+    width: 160px;
+    height: 40px;
+    background: hsl(255, 10%, 92%);
+    border: none;
+    margin-top: 200px;
+    margin-left: 100px;
+    margin-block-end: 200PX;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: .4s ease;
+    align-content: center;
+    text-align: center;
+}
+
+  
